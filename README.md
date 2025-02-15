@@ -17,18 +17,6 @@ Medi-Assist provides a comprehensive suite of features for healthcare management
 - In-person and virtual consultation options
 - Feedback submission and customer support
 
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Getting Started](#2-getting-started)
-3. [User Profile and Account Management](#3-user-profile-and-account-management)
-4. [Appointment Management](#4-appointment-management)
-5. [Services and Medical Information](#5-services-and-medical-information)
-6. [Consultation Options](#6-consultation-options)
-7. [Support and Feedback](#7-support-and-feedback)
-8. [About Medi-Assist](#8-about-medi-assist)
-9. [Troubleshooting and Technical Support](#9-troubleshooting-and-technical-support)
-10. [Additional Information](#10-additional-information)
-
 ## Getting Started
 
 To get started with the Medi-Assist platform:
