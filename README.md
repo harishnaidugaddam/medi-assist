@@ -53,10 +53,6 @@ To get started with the Medi-Assist platform:
 
 If you'd like to contribute to Medi-Assist, feel free to fork the repository and submit a pull request. Please ensure to follow the code of conduct and contribute with meaningful updates.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The development of this project is inspired by the need for more accessible healthcare management platforms.
